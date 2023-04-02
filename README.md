@@ -13,7 +13,7 @@
 
 >Fast Request 
 
-*  [Plugin homepage](https://plugins.jetbrains.com/plugin/TODO0000-restful-fast-request)
+*  [Plugin homepage](https://plugins.jetbrains.com/plugin/21399-restful-fast-request)
 *  [English document](https://github.com/prgrmz07/quick-request-src/doc/en)
 *  [中文文档](https://github.com/prgrmz07/quick-request-src/doc/cn)
 
